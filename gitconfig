@@ -1,11 +1,11 @@
 [user]
 	# Name used in commit messages.
-	name = Mike McQuaid
+	name = Solana Home
 	# Email used in commit messages.
-	email = mike@mikemcquaid.com
+	email = solanahome@icloud.com
 [github]
 	# GitHub username for command-line tools.
-	user = MikeMcQuaid
+	user = solanahome
 [color]
 	# Colour terminal command output when possible.
 	ui = auto
