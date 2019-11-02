@@ -25,7 +25,7 @@ sudo chmod 600 ~/.ssh/id_*
 sudo chmod 644 ~/.ssh/*.pub
 sudo chmod 644 ~/.ssh/authorized_keys
 sudo chmod 700 ~/.gnupg
-sudo chmod 600 ~/.gnupg/*
+sudo chmod 700 ~/.gnupg/*
 
 echo "Storing SSH keys in keychain..."
 ssh-add -K
