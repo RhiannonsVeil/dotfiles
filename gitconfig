@@ -1,9 +1,9 @@
 [user]
 	# Name used in commit messages.
-	name = Solana Home
+	name = Rhiannon's Veil
 	# Email used in commit messages.
-	email = SolanaHome@icloud.com
-	signingkey = D497DCD9FBCAA503
+	email = RhiannonsVeil@protonmail.com
+	signingkey = C5E0CCC01D7BB5CB46C1E7D4425C8F7088CF358A
 [github]
 	# GitHub username for command-line tools.
 	user = solanahome
