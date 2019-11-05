@@ -2,6 +2,8 @@
 # Restore to pre-strap (as much as possible)
 
 cd ~/
+unlink ~/.ssh
+unlink ~/.gnupg
 unlink ~/.brewfile
 unlink ~/.bash_logout
 unlink ~/.bash_profile
@@ -12,6 +14,7 @@ unlink ~/.gitconfig
 unlink ~/.gitignore
 unlink ~/.grc
 unlink ~/.logout
+unlink ~/.mackup.cfg
 unlink ~/.rspec
 unlink ~/.screenrc
 unlink ~/.shprofile
@@ -20,6 +23,7 @@ unlink ~/.vimrc
 unlink ~/.zlogout
 unlink ~/.zprofile
 unlink ~/.zshrc
+rm -rf ~/.gitconfig
 rm -rf  ~/.homebrew-brewfile
 rm -rf ~/.lastpwd
 rm -rf ~/.zcompdump
